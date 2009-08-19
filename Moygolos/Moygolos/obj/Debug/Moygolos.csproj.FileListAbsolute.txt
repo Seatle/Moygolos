@@ -1,0 +1,5 @@
+D:\Projects\Moygolos\Moygolos\Moygolos\bin\Moygolos.dll
+D:\Projects\Moygolos\Moygolos\Moygolos\bin\Moygolos.pdb
+D:\Projects\Moygolos\Moygolos\Moygolos\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Moygolos\Moygolos\Moygolos\obj\Debug\Moygolos.dll
+D:\Projects\Moygolos\Moygolos\Moygolos\obj\Debug\Moygolos.pdb

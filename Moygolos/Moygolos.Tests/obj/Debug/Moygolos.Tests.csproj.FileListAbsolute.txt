@@ -1,0 +1,8 @@
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\bin\Debug\Moygolos.Tests.dll.config
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\bin\Debug\Moygolos.Tests.dll
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\bin\Debug\Moygolos.Tests.pdb
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\bin\Debug\Moygolos.dll
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\bin\Debug\Moygolos.pdb
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\obj\Debug\Moygolos.Tests.dll
+D:\Projects\Moygolos\Moygolos\Moygolos.Tests\obj\Debug\Moygolos.Tests.pdb

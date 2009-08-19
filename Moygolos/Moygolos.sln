@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moygolos", "Moygolos\Moygolos.csproj", "{C916F03A-F5D0-4204-B967-940298F5EA08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moygolos.Tests", "Moygolos.Tests\Moygolos.Tests.csproj", "{29AA32E7-B994-4F3E-B27D-C21E6F9757FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C916F03A-F5D0-4204-B967-940298F5EA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C916F03A-F5D0-4204-B967-940298F5EA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C916F03A-F5D0-4204-B967-940298F5EA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C916F03A-F5D0-4204-B967-940298F5EA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AA32E7-B994-4F3E-B27D-C21E6F9757FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AA32E7-B994-4F3E-B27D-C21E6F9757FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AA32E7-B994-4F3E-B27D-C21E6F9757FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AA32E7-B994-4F3E-B27D-C21E6F9757FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

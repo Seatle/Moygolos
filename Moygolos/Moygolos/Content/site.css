@@ -1,0 +1,137 @@
+﻿body
+{
+  background-color: #b0c4de;
+}
+
+#page
+{
+  margin-top: 50px;
+  width: 750px;
+  background-color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#selVariant
+{
+  background: #ccc;
+  border: solid 1px #a0a0a0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.varFrame
+{
+  display: inline-block;
+  width: 150px;
+  border: solid 1px #c0c0c0;
+  background-color: #fff;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+#actPanel
+{
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+}
+
+.checkBox
+{
+  background-position: 0px 0px;
+}
+
+.checkBoxClear
+{
+  background-position: -21px 0px;
+}
+
+.checkBox, .checkBoxClear
+{
+  background-image: url( 'Images/CheckBox.png' );
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 21px;
+  height: 21px;
+  padding: 0px;
+  margin: 0px;
+  cursor: pointer;
+}
+
+
+#regForm
+{
+  border: 1px solid #781351;
+  padding: 10px 10px 10px 10px;
+}
+
+#regForm legend
+{
+  margin-left: 0.5em;
+  color: #fff;
+  background: #ffa20c;
+  border: 1px solid #781351;
+  padding: 2px 6px 2px 6px;
+} 
+
+#regForm label
+{
+  width: 4em;
+  float: left;
+  text-align: right;
+  margin-right: 0.5em;
+  display: block
+}
+
+#regForm .field
+{
+  padding: 1px 2px 1px 2px;
+  color: #781351;
+  background: #fee3ad;
+  border: 1px solid #781351;
+  width: 220px;
+}
+
+input
+{
+  padding: 1px 2px 1px 2px;
+  color: #781351;
+  background: #c0c0c0;
+  border: 1px solid #781351;
+}
+
+.varResFrame
+{
+  width: 100%;
+  display: block;
+  border: solid 1px #c0c0c0;
+  padding: 5px 5px 5px 5px;
+}
+
+#voteResult img
+{
+  float: left;
+  margin-right: 5px;
+}
+
+.bar
+{
+  display: inline-block;
+}
+
+.uaBar
+{
+  background-color: Orange;
+  margin-bottom: 3px;
+}
+.ruBar
+{
+  background-color: Blue;
+  margin-bottom: 3px;
+}
+.otBar
+{
+  background-color: Lime;
+}
